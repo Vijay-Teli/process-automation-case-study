@@ -20,7 +20,7 @@ This resulted in:
 
 ### Automation 1: Pega RPA Bot for Account Creation
 - Partnered with Business Analyst teams to design an RPA bot using Pega
-- Bot automatically created new employee accounts in the core banking system when triggered by UKG HRIS new hire event
+- Bot automatically created new employee accounts in the core banking system when triggered by UKG Human Resources Information Systems new hire event
 - Eliminated manual data entry for account creation
 - Reduced user-creation errors to near zero
 - Improved compliance by ensuring consistent provisioning
